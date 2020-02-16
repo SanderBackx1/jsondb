@@ -1,0 +1,59 @@
+{
+    "projects": [
+    {
+      "name": "Atomos App",
+      "img": "atomos.png",
+      "download": "#",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, totam sequi earum beatae repellendus minus officia fugit ullam voluptatem et.",
+      "technologies": [
+        {
+          "name": "Javascript",
+          "icon": "mdi-language-javascript"
+        },
+        {
+          "name": "JQuery",
+          "icon": "mdi-jquery"
+        },
+        {
+          "name": "Cordova",
+          "icon": "mdi-cordova"
+        },
+        {
+          "name": "Firebase",
+          "icon": "mdi-firebase"
+        }
+      ],
+      "code": "github",
+      "icon": "mdi-github-circle"
+      
+    },
+    {
+      "name": "The Box",
+      "img": "thebox.png",
+      "download": "#",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, totam sequi earum beatae repellendus minus officia fugit ullam voluptatem et.",
+      "technologies": [
+        {
+          "name": "C++",
+          "icon": "mdi-language-cpp"
+        }
+      ],
+      "code": "github",
+      "icon": "mdi-github-circle"
+    },
+    {
+      "name": "Alumniavond - ontwerp",
+      "img": "ontwerpproject.png",
+      "download": "#",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, totam sequi earum beatae repellendus minus officia fugit ullam voluptatem et.",
+      "technologies": [
+        {
+            "name": "draw.io"
+        },
+        {
+            "name": "Axure"
+        }
+      ]
+    }
+  ]
+}
