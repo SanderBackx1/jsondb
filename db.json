@@ -2,7 +2,7 @@
     "projects": [
     {
       "name": "Atomos App",
-      "img": "atomos.png",
+      "img": "https://res.cloudinary.com/sanderbackx/image/upload/v1581848346/portfolio/atomos_zwbg5g.jpg",
       "download": "#",
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, totam sequi earum beatae repellendus minus officia fugit ullam voluptatem et.",
       "technologies": [
@@ -29,7 +29,7 @@
     },
     {
       "name": "The Box",
-      "img": "thebox.png",
+      "img": "https://res.cloudinary.com/sanderbackx/image/upload/v1581848114/portfolio/thebox_u64rzy.png",
       "download": "#",
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, totam sequi earum beatae repellendus minus officia fugit ullam voluptatem et.",
       "technologies": [
@@ -43,7 +43,7 @@
     },
     {
       "name": "Alumniavond - ontwerp",
-      "img": "ontwerpproject.png",
+      "img": "https://res.cloudinary.com/sanderbackx/image/upload/v1581848114/portfolio/ontwerpproject_hodu2y.png",
       "download": "#",
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, totam sequi earum beatae repellendus minus officia fugit ullam voluptatem et.",
       "technologies": [
